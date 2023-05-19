@@ -1,0 +1,4 @@
+To run the NetSlicerV2.0.jar file, you need to install JDK. Follow these steps:
+1- Double-click on the jdk-20_windows-x64_bin.msi file to install JDK.
+2- Once JDK is installed, you can run the NetSlicerV2.0.jar file by double-clicking on it.
+Please ensure that you have installed JDK before running the NetSlicerV2.0.jar file.
